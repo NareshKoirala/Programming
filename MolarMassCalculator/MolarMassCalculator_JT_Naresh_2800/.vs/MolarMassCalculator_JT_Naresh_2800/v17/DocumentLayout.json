@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nkoirala1\\OneDrive - NAIT\\term 4\\CMPE-2800 (Herb)\\GroupProj1\\MMC_1242_JonToby_Naresh\\MolarMassCalculator_JT_Naresh_2800\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{131965AB-9EFF-4A3F-AD3A-1BC445109F80}|MolarMassCalculator_JT_Naresh_2800\\MolarMassCalculator_JT_Naresh_2800.csproj|c:\\users\\nkoirala1\\onedrive - nait\\term 4\\cmpe-2800 (herb)\\groupproj1\\mmc_1242_jontoby_naresh\\molarmasscalculator_jt_naresh_2800\\molarmasscalculator_jt_naresh_2800\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{131965AB-9EFF-4A3F-AD3A-1BC445109F80}|MolarMassCalculator_JT_Naresh_2800\\MolarMassCalculator_JT_Naresh_2800.csproj|solutionrelative:molarmasscalculator_jt_naresh_2800\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131965AB-9EFF-4A3F-AD3A-1BC445109F80}|MolarMassCalculator_JT_Naresh_2800\\MolarMassCalculator_JT_Naresh_2800.csproj|C:\\Users\\nkoirala1\\OneDrive - NAIT\\term 4\\CMPE-2800 (Herb)\\GroupProj1\\MMC_1242_JonToby_Naresh\\MolarMassCalculator_JT_Naresh_2800\\molarmasscalculator_jt_naresh_2800\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{131965AB-9EFF-4A3F-AD3A-1BC445109F80}|MolarMassCalculator_JT_Naresh_2800\\MolarMassCalculator_JT_Naresh_2800.csproj|solutionrelative:molarmasscalculator_jt_naresh_2800\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131965AB-9EFF-4A3F-AD3A-1BC445109F80}|MolarMassCalculator_JT_Naresh_2800\\MolarMassCalculator_JT_Naresh_2800.csproj|C:\\Users\\nkoirala1\\OneDrive - NAIT\\term 4\\CMPE-2800 (Herb)\\GroupProj1\\MMC_1242_JonToby_Naresh\\MolarMassCalculator_JT_Naresh_2800\\molarmasscalculator_jt_naresh_2800\\molar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{131965AB-9EFF-4A3F-AD3A-1BC445109F80}|MolarMassCalculator_JT_Naresh_2800\\MolarMassCalculator_JT_Naresh_2800.csproj|solutionrelative:molarmasscalculator_jt_naresh_2800\\molar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\nkoirala1\\OneDrive - NAIT\\term 4\\CMPE-2800 (Herb)\\GroupProj1\\MMC_1242_JonToby_Naresh\\MolarMassCalculator_JT_Naresh_2800\\MolarMassCalculator_JT_Naresh_2800\\Form1.cs",
+              "RelativeDocumentMoniker": "MolarMassCalculator_JT_Naresh_2800\\Form1.cs",
+              "ToolTip": "C:\\Users\\nkoirala1\\OneDrive - NAIT\\term 4\\CMPE-2800 (Herb)\\GroupProj1\\MMC_1242_JonToby_Naresh\\MolarMassCalculator_JT_Naresh_2800\\MolarMassCalculator_JT_Naresh_2800\\Form1.cs",
+              "RelativeToolTip": "MolarMassCalculator_JT_Naresh_2800\\Form1.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAcwC0BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T22:18:00.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nkoirala1\\OneDrive - NAIT\\term 4\\CMPE-2800 (Herb)\\GroupProj1\\MMC_1242_JonToby_Naresh\\MolarMassCalculator_JT_Naresh_2800\\MolarMassCalculator_JT_Naresh_2800\\Form1.cs",
+              "RelativeDocumentMoniker": "MolarMassCalculator_JT_Naresh_2800\\Form1.cs",
+              "ToolTip": "C:\\Users\\chels\\OneDrive - NAIT\\term 4\\CMPE-2800 (Herb)\\GroupProj1\\MMC_1242_JonToby_Naresh\\MolarMassCalculator_JT_Naresh_2800\\MolarMassCalculator_JT_Naresh_2800\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\chels\\OneDrive - NAIT\\term 4\\CMPE-2800 (Herb)\\GroupProj1\\MMC_1242_JonToby_Naresh\\MolarMassCalculator_JT_Naresh_2800\\MolarMassCalculator_JT_Naresh_2800\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T22:17:56.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Molar.cs",
+              "DocumentMoniker": "C:\\Users\\nkoirala1\\OneDrive - NAIT\\term 4\\CMPE-2800 (Herb)\\GroupProj1\\MMC_1242_JonToby_Naresh\\MolarMassCalculator_JT_Naresh_2800\\MolarMassCalculator_JT_Naresh_2800\\Molar.cs",
+              "RelativeDocumentMoniker": "MolarMassCalculator_JT_Naresh_2800\\Molar.cs",
+              "ToolTip": "C:\\Users\\nkoirala1\\OneDrive - NAIT\\term 4\\CMPE-2800 (Herb)\\GroupProj1\\MMC_1242_JonToby_Naresh\\MolarMassCalculator_JT_Naresh_2800\\MolarMassCalculator_JT_Naresh_2800\\Molar.cs",
+              "RelativeToolTip": "MolarMassCalculator_JT_Naresh_2800\\Molar.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T22:17:49.879Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
