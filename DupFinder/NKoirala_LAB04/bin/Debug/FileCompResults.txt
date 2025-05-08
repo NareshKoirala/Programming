@@ -1,0 +1,4 @@
+Files C:\Users\nkoirala1\OneDrive - NAIT\Desktop\teststuff\textc.txt and C:\Users\nkoirala1\OneDrive - NAIT\Desktop\teststuff\texta.txt are identical.
+Files C:\Users\nkoirala1\OneDrive - NAIT\Desktop\teststuff\textc.txt and C:\Users\nkoirala1\OneDrive - NAIT\Desktop\teststuff\textb.txt are identical.
+Files C:\Users\nkoirala1\OneDrive - NAIT\Desktop\teststuff\textc.txt and C:\Users\nkoirala1\OneDrive - NAIT\Desktop\teststuff\textd.txt are identical.
+Files C:\Users\nkoirala1\OneDrive - NAIT\Desktop\teststuff\textc.txt and C:\Users\nkoirala1\OneDrive - NAIT\Desktop\teststuff\texte.txt are identical.

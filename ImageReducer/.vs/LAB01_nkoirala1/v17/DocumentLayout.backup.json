@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chels\\OneDrive\\Documents\\NAIT\\term 4\\CMPE-2800 (Herb)\\cmpe2800-NareshKoirala\\labs\\LAB01_nkoirala1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D9EE71-9452-4521-A7C7-092A8735284D}|LAB01_nkoirala1\\LAB01_nkoirala1.csproj|c:\\users\\chels\\onedrive\\documents\\nait\\term 4\\cmpe-2800 (herb)\\cmpe2800-nareshkoirala\\labs\\lab01_nkoirala1\\lab01_nkoirala1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D9EE71-9452-4521-A7C7-092A8735284D}|LAB01_nkoirala1\\LAB01_nkoirala1.csproj|solutionrelative:lab01_nkoirala1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D9EE71-9452-4521-A7C7-092A8735284D}|LAB01_nkoirala1\\LAB01_nkoirala1.csproj|C:\\Users\\chels\\OneDrive\\Documents\\NAIT\\term 4\\CMPE-2800 (Herb)\\cmpe2800-NareshKoirala\\labs\\LAB01_nkoirala1\\lab01_nkoirala1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0D9EE71-9452-4521-A7C7-092A8735284D}|LAB01_nkoirala1\\LAB01_nkoirala1.csproj|solutionrelative:lab01_nkoirala1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D9EE71-9452-4521-A7C7-092A8735284D}|LAB01_nkoirala1\\LAB01_nkoirala1.csproj|C:\\Users\\chels\\OneDrive\\Documents\\NAIT\\term 4\\CMPE-2800 (Herb)\\cmpe2800-NareshKoirala\\labs\\LAB01_nkoirala1\\lab01_nkoirala1\\basebitmapmanip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D9EE71-9452-4521-A7C7-092A8735284D}|LAB01_nkoirala1\\LAB01_nkoirala1.csproj|solutionrelative:lab01_nkoirala1\\basebitmapmanip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D9EE71-9452-4521-A7C7-092A8735284D}|LAB01_nkoirala1\\LAB01_nkoirala1.csproj|C:\\Users\\chels\\OneDrive\\Documents\\NAIT\\term 4\\CMPE-2800 (Herb)\\cmpe2800-NareshKoirala\\labs\\LAB01_nkoirala1\\lab01_nkoirala1\\imagereducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D9EE71-9452-4521-A7C7-092A8735284D}|LAB01_nkoirala1\\LAB01_nkoirala1.csproj|solutionrelative:lab01_nkoirala1\\imagereducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ImageReducer.cs",
+              "DocumentMoniker": "C:\\Users\\chels\\OneDrive\\Documents\\NAIT\\term 4\\CMPE-2800 (Herb)\\cmpe2800-NareshKoirala\\labs\\LAB01_nkoirala1\\LAB01_nkoirala1\\ImageReducer.cs",
+              "RelativeDocumentMoniker": "LAB01_nkoirala1\\ImageReducer.cs",
+              "ToolTip": "C:\\Users\\chels\\OneDrive\\Documents\\NAIT\\term 4\\CMPE-2800 (Herb)\\cmpe2800-NareshKoirala\\labs\\LAB01_nkoirala1\\LAB01_nkoirala1\\ImageReducer.cs",
+              "RelativeToolTip": "LAB01_nkoirala1\\ImageReducer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T07:24:33.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseBitmapManip.cs",
+              "DocumentMoniker": "C:\\Users\\chels\\OneDrive\\Documents\\NAIT\\term 4\\CMPE-2800 (Herb)\\cmpe2800-NareshKoirala\\labs\\LAB01_nkoirala1\\LAB01_nkoirala1\\BaseBitmapManip.cs",
+              "RelativeDocumentMoniker": "LAB01_nkoirala1\\BaseBitmapManip.cs",
+              "ToolTip": "C:\\Users\\chels\\OneDrive\\Documents\\NAIT\\term 4\\CMPE-2800 (Herb)\\cmpe2800-NareshKoirala\\labs\\LAB01_nkoirala1\\LAB01_nkoirala1\\BaseBitmapManip.cs",
+              "RelativeToolTip": "LAB01_nkoirala1\\BaseBitmapManip.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T07:01:12.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\chels\\OneDrive\\Documents\\NAIT\\term 4\\CMPE-2800 (Herb)\\cmpe2800-NareshKoirala\\labs\\LAB01_nkoirala1\\LAB01_nkoirala1\\Form1.cs",
+              "RelativeDocumentMoniker": "LAB01_nkoirala1\\Form1.cs",
+              "ToolTip": "C:\\Users\\chels\\OneDrive\\Documents\\NAIT\\term 4\\CMPE-2800 (Herb)\\cmpe2800-NareshKoirala\\labs\\LAB01_nkoirala1\\LAB01_nkoirala1\\Form1.cs",
+              "RelativeToolTip": "LAB01_nkoirala1\\Form1.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T06:59:20.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\chels\\OneDrive\\Documents\\NAIT\\term 4\\CMPE-2800 (Herb)\\cmpe2800-NareshKoirala\\labs\\LAB01_nkoirala1\\LAB01_nkoirala1\\Form1.cs",
+              "RelativeDocumentMoniker": "LAB01_nkoirala1\\Form1.cs",
+              "ToolTip": "C:\\Users\\chels\\OneDrive - NAIT\\term 4\\CMPE-2800 (Herb)\\cmpe2800-NareshKoirala\\labs\\LAB01_nkoirala1\\LAB01_nkoirala1\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\OneDrive - NAIT\\term 4\\CMPE-2800 (Herb)\\cmpe2800-NareshKoirala\\labs\\LAB01_nkoirala1\\LAB01_nkoirala1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T06:59:00.791Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

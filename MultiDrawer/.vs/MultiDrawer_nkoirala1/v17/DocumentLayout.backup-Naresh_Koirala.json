@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chels\\OneDrive - NAIT\\term 4\\CMPE-2800 (Herb)\\cmpe2800-NareshKoirala\\labs\\MultiDrawer_nkoirala1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{776F02C3-A39A-477B-A86C-0ECDB2E184D0}|MultiDrawer_nkoirala1\\MultiDrawer_nkoirala1.csproj|c:\\users\\chels\\onedrive - nait\\term 4\\cmpe-2800 (herb)\\cmpe2800-nareshkoirala\\labs\\multidrawer_nkoirala1\\multidrawer_nkoirala1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{776F02C3-A39A-477B-A86C-0ECDB2E184D0}|MultiDrawer_nkoirala1\\MultiDrawer_nkoirala1.csproj|solutionrelative:multidrawer_nkoirala1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B3A302-9360-4F59-9DFF-9A1D6CB6085A}|AbSoc\\AbSoc.csproj|c:\\users\\chels\\onedrive - nait\\term 4\\cmpe-2800 (herb)\\cmpe2800-nareshkoirala\\labs\\multidrawer_nkoirala1\\absoc\\absoc_dlg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30B3A302-9360-4F59-9DFF-9A1D6CB6085A}|AbSoc\\AbSoc.csproj|solutionrelative:absoc\\absoc_dlg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{776F02C3-A39A-477B-A86C-0ECDB2E184D0}|MultiDrawer_nkoirala1\\MultiDrawer_nkoirala1.csproj|C:\\Users\\chels\\OneDrive - NAIT\\term 4\\CMPE-2800 (Herb)\\cmpe2800-NareshKoirala\\labs\\MultiDrawer_nkoirala1\\multidrawer_nkoirala1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{776F02C3-A39A-477B-A86C-0ECDB2E184D0}|MultiDrawer_nkoirala1\\MultiDrawer_nkoirala1.csproj|solutionrelative:multidrawer_nkoirala1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{776F02C3-A39A-477B-A86C-0ECDB2E184D0}|MultiDrawer_nkoirala1\\MultiDrawer_nkoirala1.csproj|C:\\Users\\chels\\OneDrive - NAIT\\term 4\\CMPE-2800 (Herb)\\cmpe2800-NareshKoirala\\labs\\MultiDrawer_nkoirala1\\multidrawer_nkoirala1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{776F02C3-A39A-477B-A86C-0ECDB2E184D0}|MultiDrawer_nkoirala1\\MultiDrawer_nkoirala1.csproj|solutionrelative:multidrawer_nkoirala1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\chels\\OneDrive - NAIT\\term 4\\CMPE-2800 (Herb)\\cmpe2800-NareshKoirala\\labs\\MultiDrawer_nkoirala1\\MultiDrawer_nkoirala1\\Form2.cs",
+              "RelativeDocumentMoniker": "MultiDrawer_nkoirala1\\Form2.cs",
+              "ToolTip": "C:\\Users\\chels\\OneDrive - NAIT\\term 4\\CMPE-2800 (Herb)\\cmpe2800-NareshKoirala\\labs\\MultiDrawer_nkoirala1\\MultiDrawer_nkoirala1\\Form2.cs [Design]",
+              "RelativeToolTip": "MultiDrawer_nkoirala1\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T05:40:09.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\chels\\OneDrive - NAIT\\term 4\\CMPE-2800 (Herb)\\cmpe2800-NareshKoirala\\labs\\MultiDrawer_nkoirala1\\MultiDrawer_nkoirala1\\Form1.cs",
+              "RelativeDocumentMoniker": "MultiDrawer_nkoirala1\\Form1.cs",
+              "ToolTip": "C:\\Users\\chels\\OneDrive - NAIT\\term 4\\CMPE-2800 (Herb)\\cmpe2800-NareshKoirala\\labs\\MultiDrawer_nkoirala1\\MultiDrawer_nkoirala1\\Form1.cs [Design]",
+              "RelativeToolTip": "MultiDrawer_nkoirala1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T02:09:51.069Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\chels\\OneDrive - NAIT\\term 4\\CMPE-2800 (Herb)\\cmpe2800-NareshKoirala\\labs\\MultiDrawer_nkoirala1\\MultiDrawer_nkoirala1\\Form1.cs",
+              "RelativeDocumentMoniker": "MultiDrawer_nkoirala1\\Form1.cs",
+              "ToolTip": "C:\\Users\\chels\\OneDrive - NAIT\\term 4\\CMPE-2800 (Herb)\\cmpe2800-NareshKoirala\\labs\\MultiDrawer_nkoirala1\\MultiDrawer_nkoirala1\\Form1.cs",
+              "RelativeToolTip": "MultiDrawer_nkoirala1\\Form1.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAswDgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T23:34:52.053Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AbSoc_dlg.cs",
+              "DocumentMoniker": "C:\\Users\\chels\\OneDrive - NAIT\\term 4\\CMPE-2800 (Herb)\\cmpe2800-NareshKoirala\\labs\\MultiDrawer_nkoirala1\\AbSoc\\AbSoc_dlg.cs",
+              "RelativeDocumentMoniker": "AbSoc\\AbSoc_dlg.cs",
+              "ToolTip": "C:\\Users\\chels\\OneDrive - NAIT\\term 4\\CMPE-2800 (Herb)\\cmpe2800-NareshKoirala\\labs\\MultiDrawer_nkoirala1\\AbSoc\\AbSoc_dlg.cs",
+              "RelativeToolTip": "AbSoc\\AbSoc_dlg.cs",
+              "ViewState": "AgIAAL4AAAAAAAAAAAAYwNAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T03:36:29.065Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

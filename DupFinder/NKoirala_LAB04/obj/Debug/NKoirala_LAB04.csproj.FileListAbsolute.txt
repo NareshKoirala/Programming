@@ -1,0 +1,31 @@
+C:\Users\chels\OneDrive - NAIT\term 2\programming\git grrrrr\labs\NKoirala_LAB04\NKoirala_LAB04\bin\Debug\NKoirala_LAB04.exe.config
+C:\Users\chels\OneDrive - NAIT\term 2\programming\git grrrrr\labs\NKoirala_LAB04\NKoirala_LAB04\bin\Debug\NKoirala_LAB04.exe
+C:\Users\chels\OneDrive - NAIT\term 2\programming\git grrrrr\labs\NKoirala_LAB04\NKoirala_LAB04\bin\Debug\NKoirala_LAB04.pdb
+C:\Users\chels\OneDrive - NAIT\term 2\programming\git grrrrr\labs\NKoirala_LAB04\NKoirala_LAB04\obj\Debug\NKoirala_LAB04.csproj.AssemblyReference.cache
+C:\Users\chels\OneDrive - NAIT\term 2\programming\git grrrrr\labs\NKoirala_LAB04\NKoirala_LAB04\obj\Debug\NKoirala_LAB04.Form1.resources
+C:\Users\chels\OneDrive - NAIT\term 2\programming\git grrrrr\labs\NKoirala_LAB04\NKoirala_LAB04\obj\Debug\NKoirala_LAB04.Properties.Resources.resources
+C:\Users\chels\OneDrive - NAIT\term 2\programming\git grrrrr\labs\NKoirala_LAB04\NKoirala_LAB04\obj\Debug\NKoirala_LAB04.csproj.GenerateResource.cache
+C:\Users\chels\OneDrive - NAIT\term 2\programming\git grrrrr\labs\NKoirala_LAB04\NKoirala_LAB04\obj\Debug\NKoirala_LAB04.csproj.CoreCompileInputs.cache
+C:\Users\chels\OneDrive - NAIT\term 2\programming\git grrrrr\labs\NKoirala_LAB04\NKoirala_LAB04\obj\Debug\NKoirala_LAB04.exe
+C:\Users\chels\OneDrive - NAIT\term 2\programming\git grrrrr\labs\NKoirala_LAB04\NKoirala_LAB04\obj\Debug\NKoirala_LAB04.pdb
+C:\Users\nkoirala1\OneDrive - NAIT\term 2\programming\git grrrrr\labs\NKoirala_LAB04\NKoirala_LAB04\bin\Debug\NKoirala_LAB04.exe.config
+C:\Users\nkoirala1\OneDrive - NAIT\term 2\programming\git grrrrr\labs\NKoirala_LAB04\NKoirala_LAB04\bin\Debug\NKoirala_LAB04.exe
+C:\Users\nkoirala1\OneDrive - NAIT\term 2\programming\git grrrrr\labs\NKoirala_LAB04\NKoirala_LAB04\bin\Debug\NKoirala_LAB04.pdb
+C:\Users\nkoirala1\OneDrive - NAIT\term 2\programming\git grrrrr\labs\NKoirala_LAB04\NKoirala_LAB04\obj\Debug\NKoirala_LAB04.csproj.AssemblyReference.cache
+C:\Users\nkoirala1\OneDrive - NAIT\term 2\programming\git grrrrr\labs\NKoirala_LAB04\NKoirala_LAB04\obj\Debug\NKoirala_LAB04.csproj.SuggestedBindingRedirects.cache
+C:\Users\nkoirala1\OneDrive - NAIT\term 2\programming\git grrrrr\labs\NKoirala_LAB04\NKoirala_LAB04\obj\Debug\NKoirala_LAB04.Form1.resources
+C:\Users\nkoirala1\OneDrive - NAIT\term 2\programming\git grrrrr\labs\NKoirala_LAB04\NKoirala_LAB04\obj\Debug\NKoirala_LAB04.Properties.Resources.resources
+C:\Users\nkoirala1\OneDrive - NAIT\term 2\programming\git grrrrr\labs\NKoirala_LAB04\NKoirala_LAB04\obj\Debug\NKoirala_LAB04.csproj.GenerateResource.cache
+C:\Users\nkoirala1\OneDrive - NAIT\term 2\programming\git grrrrr\labs\NKoirala_LAB04\NKoirala_LAB04\obj\Debug\NKoirala_LAB04.csproj.CoreCompileInputs.cache
+C:\Users\nkoirala1\OneDrive - NAIT\term 2\programming\git grrrrr\labs\NKoirala_LAB04\NKoirala_LAB04\obj\Debug\NKoirala_LAB04.exe
+C:\Users\nkoirala1\OneDrive - NAIT\term 2\programming\git grrrrr\labs\NKoirala_LAB04\NKoirala_LAB04\obj\Debug\NKoirala_LAB04.pdb
+C:\Users\chels\OneDrive\Documents\NAIT\term 2\programming\git grrrrr\labs\NKoirala_LAB04\NKoirala_LAB04\bin\Debug\NKoirala_LAB04.exe.config
+C:\Users\chels\OneDrive\Documents\NAIT\term 2\programming\git grrrrr\labs\NKoirala_LAB04\NKoirala_LAB04\bin\Debug\NKoirala_LAB04.exe
+C:\Users\chels\OneDrive\Documents\NAIT\term 2\programming\git grrrrr\labs\NKoirala_LAB04\NKoirala_LAB04\bin\Debug\NKoirala_LAB04.pdb
+C:\Users\chels\OneDrive\Documents\NAIT\term 2\programming\git grrrrr\labs\NKoirala_LAB04\NKoirala_LAB04\obj\Debug\NKoirala_LAB04.csproj.AssemblyReference.cache
+C:\Users\chels\OneDrive\Documents\NAIT\term 2\programming\git grrrrr\labs\NKoirala_LAB04\NKoirala_LAB04\obj\Debug\NKoirala_LAB04.Form1.resources
+C:\Users\chels\OneDrive\Documents\NAIT\term 2\programming\git grrrrr\labs\NKoirala_LAB04\NKoirala_LAB04\obj\Debug\NKoirala_LAB04.Properties.Resources.resources
+C:\Users\chels\OneDrive\Documents\NAIT\term 2\programming\git grrrrr\labs\NKoirala_LAB04\NKoirala_LAB04\obj\Debug\NKoirala_LAB04.csproj.GenerateResource.cache
+C:\Users\chels\OneDrive\Documents\NAIT\term 2\programming\git grrrrr\labs\NKoirala_LAB04\NKoirala_LAB04\obj\Debug\NKoirala_LAB04.csproj.CoreCompileInputs.cache
+C:\Users\chels\OneDrive\Documents\NAIT\term 2\programming\git grrrrr\labs\NKoirala_LAB04\NKoirala_LAB04\obj\Debug\NKoirala_LAB04.exe
+C:\Users\chels\OneDrive\Documents\NAIT\term 2\programming\git grrrrr\labs\NKoirala_LAB04\NKoirala_LAB04\obj\Debug\NKoirala_LAB04.pdb

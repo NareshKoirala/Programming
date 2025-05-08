@@ -1,0 +1,30 @@
+C:\Users\chels\OneDrive - NAIT\term 4\CMPE-2800 (Herb)\cmpe2800-NareshKoirala\labs\LAB01_nkoirala1\LAB01_nkoirala1\obj\Debug\LAB01_nkoirala1.csproj.AssemblyReference.cache
+C:\Users\chels\OneDrive - NAIT\term 4\CMPE-2800 (Herb)\cmpe2800-NareshKoirala\labs\LAB01_nkoirala1\LAB01_nkoirala1\obj\Debug\LAB01_nkoirala1.Form1.resources
+C:\Users\chels\OneDrive - NAIT\term 4\CMPE-2800 (Herb)\cmpe2800-NareshKoirala\labs\LAB01_nkoirala1\LAB01_nkoirala1\obj\Debug\LAB01_nkoirala1.Properties.Resources.resources
+C:\Users\chels\OneDrive - NAIT\term 4\CMPE-2800 (Herb)\cmpe2800-NareshKoirala\labs\LAB01_nkoirala1\LAB01_nkoirala1\obj\Debug\LAB01_nkoirala1.csproj.GenerateResource.cache
+C:\Users\chels\OneDrive - NAIT\term 4\CMPE-2800 (Herb)\cmpe2800-NareshKoirala\labs\LAB01_nkoirala1\LAB01_nkoirala1\obj\Debug\LAB01_nkoirala1.csproj.CoreCompileInputs.cache
+C:\Users\chels\OneDrive - NAIT\term 4\CMPE-2800 (Herb)\cmpe2800-NareshKoirala\labs\LAB01_nkoirala1\LAB01_nkoirala1\bin\Debug\LAB01_nkoirala1.exe.config
+C:\Users\chels\OneDrive - NAIT\term 4\CMPE-2800 (Herb)\cmpe2800-NareshKoirala\labs\LAB01_nkoirala1\LAB01_nkoirala1\bin\Debug\LAB01_nkoirala1.exe
+C:\Users\chels\OneDrive - NAIT\term 4\CMPE-2800 (Herb)\cmpe2800-NareshKoirala\labs\LAB01_nkoirala1\LAB01_nkoirala1\bin\Debug\LAB01_nkoirala1.pdb
+C:\Users\chels\OneDrive - NAIT\term 4\CMPE-2800 (Herb)\cmpe2800-NareshKoirala\labs\LAB01_nkoirala1\LAB01_nkoirala1\obj\Debug\LAB01_nkoirala1.exe
+C:\Users\chels\OneDrive - NAIT\term 4\CMPE-2800 (Herb)\cmpe2800-NareshKoirala\labs\LAB01_nkoirala1\LAB01_nkoirala1\obj\Debug\LAB01_nkoirala1.pdb
+C:\Users\nkoirala1\OneDrive - NAIT\term 4\CMPE-2800 (Herb)\cmpe2800-NareshKoirala\labs\LAB01_nkoirala1\LAB01_nkoirala1\bin\Debug\LAB01_nkoirala1.exe.config
+C:\Users\nkoirala1\OneDrive - NAIT\term 4\CMPE-2800 (Herb)\cmpe2800-NareshKoirala\labs\LAB01_nkoirala1\LAB01_nkoirala1\bin\Debug\LAB01_nkoirala1.exe
+C:\Users\nkoirala1\OneDrive - NAIT\term 4\CMPE-2800 (Herb)\cmpe2800-NareshKoirala\labs\LAB01_nkoirala1\LAB01_nkoirala1\bin\Debug\LAB01_nkoirala1.pdb
+C:\Users\nkoirala1\OneDrive - NAIT\term 4\CMPE-2800 (Herb)\cmpe2800-NareshKoirala\labs\LAB01_nkoirala1\LAB01_nkoirala1\obj\Debug\LAB01_nkoirala1.csproj.AssemblyReference.cache
+C:\Users\nkoirala1\OneDrive - NAIT\term 4\CMPE-2800 (Herb)\cmpe2800-NareshKoirala\labs\LAB01_nkoirala1\LAB01_nkoirala1\obj\Debug\LAB01_nkoirala1.Form1.resources
+C:\Users\nkoirala1\OneDrive - NAIT\term 4\CMPE-2800 (Herb)\cmpe2800-NareshKoirala\labs\LAB01_nkoirala1\LAB01_nkoirala1\obj\Debug\LAB01_nkoirala1.Properties.Resources.resources
+C:\Users\nkoirala1\OneDrive - NAIT\term 4\CMPE-2800 (Herb)\cmpe2800-NareshKoirala\labs\LAB01_nkoirala1\LAB01_nkoirala1\obj\Debug\LAB01_nkoirala1.csproj.GenerateResource.cache
+C:\Users\nkoirala1\OneDrive - NAIT\term 4\CMPE-2800 (Herb)\cmpe2800-NareshKoirala\labs\LAB01_nkoirala1\LAB01_nkoirala1\obj\Debug\LAB01_nkoirala1.csproj.CoreCompileInputs.cache
+C:\Users\nkoirala1\OneDrive - NAIT\term 4\CMPE-2800 (Herb)\cmpe2800-NareshKoirala\labs\LAB01_nkoirala1\LAB01_nkoirala1\obj\Debug\LAB01_nkoirala1.exe
+C:\Users\nkoirala1\OneDrive - NAIT\term 4\CMPE-2800 (Herb)\cmpe2800-NareshKoirala\labs\LAB01_nkoirala1\LAB01_nkoirala1\obj\Debug\LAB01_nkoirala1.pdb
+C:\Users\chels\OneDrive\Documents\NAIT\term 4\CMPE-2800 (Herb)\cmpe2800-NareshKoirala\labs\LAB01_nkoirala1\LAB01_nkoirala1\bin\Debug\LAB01_nkoirala1.exe.config
+C:\Users\chels\OneDrive\Documents\NAIT\term 4\CMPE-2800 (Herb)\cmpe2800-NareshKoirala\labs\LAB01_nkoirala1\LAB01_nkoirala1\bin\Debug\LAB01_nkoirala1.exe
+C:\Users\chels\OneDrive\Documents\NAIT\term 4\CMPE-2800 (Herb)\cmpe2800-NareshKoirala\labs\LAB01_nkoirala1\LAB01_nkoirala1\bin\Debug\LAB01_nkoirala1.pdb
+C:\Users\chels\OneDrive\Documents\NAIT\term 4\CMPE-2800 (Herb)\cmpe2800-NareshKoirala\labs\LAB01_nkoirala1\LAB01_nkoirala1\obj\Debug\LAB01_nkoirala1.csproj.AssemblyReference.cache
+C:\Users\chels\OneDrive\Documents\NAIT\term 4\CMPE-2800 (Herb)\cmpe2800-NareshKoirala\labs\LAB01_nkoirala1\LAB01_nkoirala1\obj\Debug\LAB01_nkoirala1.Form1.resources
+C:\Users\chels\OneDrive\Documents\NAIT\term 4\CMPE-2800 (Herb)\cmpe2800-NareshKoirala\labs\LAB01_nkoirala1\LAB01_nkoirala1\obj\Debug\LAB01_nkoirala1.Properties.Resources.resources
+C:\Users\chels\OneDrive\Documents\NAIT\term 4\CMPE-2800 (Herb)\cmpe2800-NareshKoirala\labs\LAB01_nkoirala1\LAB01_nkoirala1\obj\Debug\LAB01_nkoirala1.csproj.GenerateResource.cache
+C:\Users\chels\OneDrive\Documents\NAIT\term 4\CMPE-2800 (Herb)\cmpe2800-NareshKoirala\labs\LAB01_nkoirala1\LAB01_nkoirala1\obj\Debug\LAB01_nkoirala1.csproj.CoreCompileInputs.cache
+C:\Users\chels\OneDrive\Documents\NAIT\term 4\CMPE-2800 (Herb)\cmpe2800-NareshKoirala\labs\LAB01_nkoirala1\LAB01_nkoirala1\obj\Debug\LAB01_nkoirala1.exe
+C:\Users\chels\OneDrive\Documents\NAIT\term 4\CMPE-2800 (Herb)\cmpe2800-NareshKoirala\labs\LAB01_nkoirala1\LAB01_nkoirala1\obj\Debug\LAB01_nkoirala1.pdb

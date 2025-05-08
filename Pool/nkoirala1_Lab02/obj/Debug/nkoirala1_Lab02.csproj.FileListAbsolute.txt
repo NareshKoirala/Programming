@@ -1,0 +1,48 @@
+C:\Users\chels\OneDrive - NAIT\term 3 Repeat\CMPE-2300 (Herb)\cmpe2300-NareshKoirala-4\icas\nkoirala1_Lab02\nkoirala1_Lab02\bin\Debug\nkoirala1_Lab02.exe.config
+C:\Users\chels\OneDrive - NAIT\term 3 Repeat\CMPE-2300 (Herb)\cmpe2300-NareshKoirala-4\icas\nkoirala1_Lab02\nkoirala1_Lab02\bin\Debug\nkoirala1_Lab02.exe
+C:\Users\chels\OneDrive - NAIT\term 3 Repeat\CMPE-2300 (Herb)\cmpe2300-NareshKoirala-4\icas\nkoirala1_Lab02\nkoirala1_Lab02\bin\Debug\nkoirala1_Lab02.pdb
+C:\Users\chels\OneDrive - NAIT\term 3 Repeat\CMPE-2300 (Herb)\cmpe2300-NareshKoirala-4\icas\nkoirala1_Lab02\nkoirala1_Lab02\bin\Debug\GDIDrawer.dll
+C:\Users\chels\OneDrive - NAIT\term 3 Repeat\CMPE-2300 (Herb)\cmpe2300-NareshKoirala-4\icas\nkoirala1_Lab02\nkoirala1_Lab02\obj\Debug\nkoirala1_Lab02.csproj.AssemblyReference.cache
+C:\Users\chels\OneDrive - NAIT\term 3 Repeat\CMPE-2300 (Herb)\cmpe2300-NareshKoirala-4\icas\nkoirala1_Lab02\nkoirala1_Lab02\obj\Debug\nkoirala1_Lab02.Form1.resources
+C:\Users\chels\OneDrive - NAIT\term 3 Repeat\CMPE-2300 (Herb)\cmpe2300-NareshKoirala-4\icas\nkoirala1_Lab02\nkoirala1_Lab02\obj\Debug\nkoirala1_Lab02.Properties.Resources.resources
+C:\Users\chels\OneDrive - NAIT\term 3 Repeat\CMPE-2300 (Herb)\cmpe2300-NareshKoirala-4\icas\nkoirala1_Lab02\nkoirala1_Lab02\obj\Debug\nkoirala1_Lab02.csproj.GenerateResource.cache
+C:\Users\chels\OneDrive - NAIT\term 3 Repeat\CMPE-2300 (Herb)\cmpe2300-NareshKoirala-4\icas\nkoirala1_Lab02\nkoirala1_Lab02\obj\Debug\nkoirala1_Lab02.csproj.CoreCompileInputs.cache
+C:\Users\chels\OneDrive - NAIT\term 3 Repeat\CMPE-2300 (Herb)\cmpe2300-NareshKoirala-4\icas\nkoirala1_Lab02\nkoirala1_Lab02\obj\Debug\nkoirala1_Lab02.csproj.CopyComplete
+C:\Users\chels\OneDrive - NAIT\term 3 Repeat\CMPE-2300 (Herb)\cmpe2300-NareshKoirala-4\icas\nkoirala1_Lab02\nkoirala1_Lab02\obj\Debug\nkoirala1_Lab02.exe
+C:\Users\chels\OneDrive - NAIT\term 3 Repeat\CMPE-2300 (Herb)\cmpe2300-NareshKoirala-4\icas\nkoirala1_Lab02\nkoirala1_Lab02\obj\Debug\nkoirala1_Lab02.pdb
+C:\Users\nkoirala1\OneDrive - NAIT\term 3 Repeat\CMPE-2300 (Herb)\cmpe2300-NareshKoirala-4\labs\nkoirala1_Lab02\nkoirala1_Lab02\bin\Debug\nkoirala1_Lab02.exe.config
+C:\Users\nkoirala1\OneDrive - NAIT\term 3 Repeat\CMPE-2300 (Herb)\cmpe2300-NareshKoirala-4\labs\nkoirala1_Lab02\nkoirala1_Lab02\bin\Debug\nkoirala1_Lab02.exe
+C:\Users\nkoirala1\OneDrive - NAIT\term 3 Repeat\CMPE-2300 (Herb)\cmpe2300-NareshKoirala-4\labs\nkoirala1_Lab02\nkoirala1_Lab02\bin\Debug\nkoirala1_Lab02.pdb
+C:\Users\nkoirala1\OneDrive - NAIT\term 3 Repeat\CMPE-2300 (Herb)\cmpe2300-NareshKoirala-4\labs\nkoirala1_Lab02\nkoirala1_Lab02\bin\Debug\GDIDrawer.dll
+C:\Users\nkoirala1\OneDrive - NAIT\term 3 Repeat\CMPE-2300 (Herb)\cmpe2300-NareshKoirala-4\labs\nkoirala1_Lab02\nkoirala1_Lab02\obj\Debug\nkoirala1_Lab02.csproj.AssemblyReference.cache
+C:\Users\nkoirala1\OneDrive - NAIT\term 3 Repeat\CMPE-2300 (Herb)\cmpe2300-NareshKoirala-4\labs\nkoirala1_Lab02\nkoirala1_Lab02\obj\Debug\nkoirala1_Lab02.Form1.resources
+C:\Users\nkoirala1\OneDrive - NAIT\term 3 Repeat\CMPE-2300 (Herb)\cmpe2300-NareshKoirala-4\labs\nkoirala1_Lab02\nkoirala1_Lab02\obj\Debug\nkoirala1_Lab02.Properties.Resources.resources
+C:\Users\nkoirala1\OneDrive - NAIT\term 3 Repeat\CMPE-2300 (Herb)\cmpe2300-NareshKoirala-4\labs\nkoirala1_Lab02\nkoirala1_Lab02\obj\Debug\nkoirala1_Lab02.csproj.GenerateResource.cache
+C:\Users\nkoirala1\OneDrive - NAIT\term 3 Repeat\CMPE-2300 (Herb)\cmpe2300-NareshKoirala-4\labs\nkoirala1_Lab02\nkoirala1_Lab02\obj\Debug\nkoirala1_Lab02.csproj.CoreCompileInputs.cache
+C:\Users\nkoirala1\OneDrive - NAIT\term 3 Repeat\CMPE-2300 (Herb)\cmpe2300-NareshKoirala-4\labs\nkoirala1_Lab02\nkoirala1_Lab02\obj\Debug\nkoirala.4DCA8A92.Up2Date
+C:\Users\nkoirala1\OneDrive - NAIT\term 3 Repeat\CMPE-2300 (Herb)\cmpe2300-NareshKoirala-4\labs\nkoirala1_Lab02\nkoirala1_Lab02\obj\Debug\nkoirala1_Lab02.exe
+C:\Users\nkoirala1\OneDrive - NAIT\term 3 Repeat\CMPE-2300 (Herb)\cmpe2300-NareshKoirala-4\labs\nkoirala1_Lab02\nkoirala1_Lab02\obj\Debug\nkoirala1_Lab02.pdb
+C:\Users\chels\OneDrive - NAIT\term 3 Repeat\CMPE-2300 (Herb)\cmpe2300-NareshKoirala-4\labs\nkoirala1_Lab02\nkoirala1_Lab02\bin\Debug\nkoirala1_Lab02.exe.config
+C:\Users\chels\OneDrive - NAIT\term 3 Repeat\CMPE-2300 (Herb)\cmpe2300-NareshKoirala-4\labs\nkoirala1_Lab02\nkoirala1_Lab02\bin\Debug\nkoirala1_Lab02.exe
+C:\Users\chels\OneDrive - NAIT\term 3 Repeat\CMPE-2300 (Herb)\cmpe2300-NareshKoirala-4\labs\nkoirala1_Lab02\nkoirala1_Lab02\bin\Debug\nkoirala1_Lab02.pdb
+C:\Users\chels\OneDrive - NAIT\term 3 Repeat\CMPE-2300 (Herb)\cmpe2300-NareshKoirala-4\labs\nkoirala1_Lab02\nkoirala1_Lab02\bin\Debug\GDIDrawer.dll
+C:\Users\chels\OneDrive - NAIT\term 3 Repeat\CMPE-2300 (Herb)\cmpe2300-NareshKoirala-4\labs\nkoirala1_Lab02\nkoirala1_Lab02\obj\Debug\nkoirala1_Lab02.csproj.AssemblyReference.cache
+C:\Users\chels\OneDrive - NAIT\term 3 Repeat\CMPE-2300 (Herb)\cmpe2300-NareshKoirala-4\labs\nkoirala1_Lab02\nkoirala1_Lab02\obj\Debug\nkoirala1_Lab02.Form1.resources
+C:\Users\chels\OneDrive - NAIT\term 3 Repeat\CMPE-2300 (Herb)\cmpe2300-NareshKoirala-4\labs\nkoirala1_Lab02\nkoirala1_Lab02\obj\Debug\nkoirala1_Lab02.Properties.Resources.resources
+C:\Users\chels\OneDrive - NAIT\term 3 Repeat\CMPE-2300 (Herb)\cmpe2300-NareshKoirala-4\labs\nkoirala1_Lab02\nkoirala1_Lab02\obj\Debug\nkoirala1_Lab02.csproj.GenerateResource.cache
+C:\Users\chels\OneDrive - NAIT\term 3 Repeat\CMPE-2300 (Herb)\cmpe2300-NareshKoirala-4\labs\nkoirala1_Lab02\nkoirala1_Lab02\obj\Debug\nkoirala1_Lab02.csproj.CoreCompileInputs.cache
+C:\Users\chels\OneDrive - NAIT\term 3 Repeat\CMPE-2300 (Herb)\cmpe2300-NareshKoirala-4\labs\nkoirala1_Lab02\nkoirala1_Lab02\obj\Debug\nkoirala1_Lab02.csproj.CopyComplete
+C:\Users\chels\OneDrive - NAIT\term 3 Repeat\CMPE-2300 (Herb)\cmpe2300-NareshKoirala-4\labs\nkoirala1_Lab02\nkoirala1_Lab02\obj\Debug\nkoirala1_Lab02.exe
+C:\Users\chels\OneDrive - NAIT\term 3 Repeat\CMPE-2300 (Herb)\cmpe2300-NareshKoirala-4\labs\nkoirala1_Lab02\nkoirala1_Lab02\obj\Debug\nkoirala1_Lab02.pdb
+C:\Users\chels\OneDrive\Documents\NAIT\term 3 Repeat\CMPE-2300 (Herb)\cmpe2300-NareshKoirala-4\labs\nkoirala1_Lab02\nkoirala1_Lab02\bin\Debug\nkoirala1_Lab02.exe.config
+C:\Users\chels\OneDrive\Documents\NAIT\term 3 Repeat\CMPE-2300 (Herb)\cmpe2300-NareshKoirala-4\labs\nkoirala1_Lab02\nkoirala1_Lab02\bin\Debug\nkoirala1_Lab02.exe
+C:\Users\chels\OneDrive\Documents\NAIT\term 3 Repeat\CMPE-2300 (Herb)\cmpe2300-NareshKoirala-4\labs\nkoirala1_Lab02\nkoirala1_Lab02\bin\Debug\nkoirala1_Lab02.pdb
+C:\Users\chels\OneDrive\Documents\NAIT\term 3 Repeat\CMPE-2300 (Herb)\cmpe2300-NareshKoirala-4\labs\nkoirala1_Lab02\nkoirala1_Lab02\bin\Debug\GDIDrawer.dll
+C:\Users\chels\OneDrive\Documents\NAIT\term 3 Repeat\CMPE-2300 (Herb)\cmpe2300-NareshKoirala-4\labs\nkoirala1_Lab02\nkoirala1_Lab02\obj\Debug\nkoirala1_Lab02.csproj.AssemblyReference.cache
+C:\Users\chels\OneDrive\Documents\NAIT\term 3 Repeat\CMPE-2300 (Herb)\cmpe2300-NareshKoirala-4\labs\nkoirala1_Lab02\nkoirala1_Lab02\obj\Debug\nkoirala1_Lab02.Form1.resources
+C:\Users\chels\OneDrive\Documents\NAIT\term 3 Repeat\CMPE-2300 (Herb)\cmpe2300-NareshKoirala-4\labs\nkoirala1_Lab02\nkoirala1_Lab02\obj\Debug\nkoirala1_Lab02.Properties.Resources.resources
+C:\Users\chels\OneDrive\Documents\NAIT\term 3 Repeat\CMPE-2300 (Herb)\cmpe2300-NareshKoirala-4\labs\nkoirala1_Lab02\nkoirala1_Lab02\obj\Debug\nkoirala1_Lab02.csproj.GenerateResource.cache
+C:\Users\chels\OneDrive\Documents\NAIT\term 3 Repeat\CMPE-2300 (Herb)\cmpe2300-NareshKoirala-4\labs\nkoirala1_Lab02\nkoirala1_Lab02\obj\Debug\nkoirala1_Lab02.csproj.CoreCompileInputs.cache
+C:\Users\chels\OneDrive\Documents\NAIT\term 3 Repeat\CMPE-2300 (Herb)\cmpe2300-NareshKoirala-4\labs\nkoirala1_Lab02\nkoirala1_Lab02\obj\Debug\nkoirala.4DCA8A92.Up2Date
+C:\Users\chels\OneDrive\Documents\NAIT\term 3 Repeat\CMPE-2300 (Herb)\cmpe2300-NareshKoirala-4\labs\nkoirala1_Lab02\nkoirala1_Lab02\obj\Debug\nkoirala1_Lab02.exe
+C:\Users\chels\OneDrive\Documents\NAIT\term 3 Repeat\CMPE-2300 (Herb)\cmpe2300-NareshKoirala-4\labs\nkoirala1_Lab02\nkoirala1_Lab02\obj\Debug\nkoirala1_Lab02.pdb

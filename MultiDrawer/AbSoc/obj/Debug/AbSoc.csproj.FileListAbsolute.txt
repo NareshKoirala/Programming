@@ -1,0 +1,12 @@
+C:\Users\nkoirala1\OneDrive - NAIT\term 4\CMPE-2800 (Herb)\cmpe2800-NareshKoirala\labs\MultiDrawer_nkoirala1\AbSoc\bin\Debug\AbSoc.dll
+C:\Users\nkoirala1\OneDrive - NAIT\term 4\CMPE-2800 (Herb)\cmpe2800-NareshKoirala\labs\MultiDrawer_nkoirala1\AbSoc\bin\Debug\AbSoc.pdb
+C:\Users\nkoirala1\OneDrive - NAIT\term 4\CMPE-2800 (Herb)\cmpe2800-NareshKoirala\labs\MultiDrawer_nkoirala1\AbSoc\obj\Debug\AbSoc.csproj.AssemblyReference.cache
+C:\Users\nkoirala1\OneDrive - NAIT\term 4\CMPE-2800 (Herb)\cmpe2800-NareshKoirala\labs\MultiDrawer_nkoirala1\AbSoc\obj\Debug\AbSoc.csproj.CoreCompileInputs.cache
+C:\Users\nkoirala1\OneDrive - NAIT\term 4\CMPE-2800 (Herb)\cmpe2800-NareshKoirala\labs\MultiDrawer_nkoirala1\AbSoc\obj\Debug\AbSoc.dll
+C:\Users\nkoirala1\OneDrive - NAIT\term 4\CMPE-2800 (Herb)\cmpe2800-NareshKoirala\labs\MultiDrawer_nkoirala1\AbSoc\obj\Debug\AbSoc.pdb
+C:\Users\chels\OneDrive - NAIT\term 4\CMPE-2800 (Herb)\cmpe2800-NareshKoirala\labs\MultiDrawer_nkoirala1\AbSoc\bin\Debug\AbSoc.dll
+C:\Users\chels\OneDrive - NAIT\term 4\CMPE-2800 (Herb)\cmpe2800-NareshKoirala\labs\MultiDrawer_nkoirala1\AbSoc\bin\Debug\AbSoc.pdb
+C:\Users\chels\OneDrive - NAIT\term 4\CMPE-2800 (Herb)\cmpe2800-NareshKoirala\labs\MultiDrawer_nkoirala1\AbSoc\obj\Debug\AbSoc.csproj.AssemblyReference.cache
+C:\Users\chels\OneDrive - NAIT\term 4\CMPE-2800 (Herb)\cmpe2800-NareshKoirala\labs\MultiDrawer_nkoirala1\AbSoc\obj\Debug\AbSoc.csproj.CoreCompileInputs.cache
+C:\Users\chels\OneDrive - NAIT\term 4\CMPE-2800 (Herb)\cmpe2800-NareshKoirala\labs\MultiDrawer_nkoirala1\AbSoc\obj\Debug\AbSoc.dll
+C:\Users\chels\OneDrive - NAIT\term 4\CMPE-2800 (Herb)\cmpe2800-NareshKoirala\labs\MultiDrawer_nkoirala1\AbSoc\obj\Debug\AbSoc.pdb

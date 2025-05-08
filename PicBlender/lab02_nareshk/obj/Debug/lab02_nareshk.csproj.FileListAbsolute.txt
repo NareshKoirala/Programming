@@ -1,0 +1,31 @@
+C:\Users\nkoirala1\OneDrive - NAIT\term 2\programming\git grrrrr\labs\lab02_nareshk\lab02_nareshk\bin\Debug\lab02_nareshk.exe.config
+C:\Users\nkoirala1\OneDrive - NAIT\term 2\programming\git grrrrr\labs\lab02_nareshk\lab02_nareshk\bin\Debug\lab02_nareshk.exe
+C:\Users\nkoirala1\OneDrive - NAIT\term 2\programming\git grrrrr\labs\lab02_nareshk\lab02_nareshk\bin\Debug\lab02_nareshk.pdb
+C:\Users\nkoirala1\OneDrive - NAIT\term 2\programming\git grrrrr\labs\lab02_nareshk\lab02_nareshk\obj\Debug\lab02_nareshk.csproj.AssemblyReference.cache
+C:\Users\nkoirala1\OneDrive - NAIT\term 2\programming\git grrrrr\labs\lab02_nareshk\lab02_nareshk\obj\Debug\lab02_nareshk.Form1.resources
+C:\Users\nkoirala1\OneDrive - NAIT\term 2\programming\git grrrrr\labs\lab02_nareshk\lab02_nareshk\obj\Debug\lab02_nareshk.Properties.Resources.resources
+C:\Users\nkoirala1\OneDrive - NAIT\term 2\programming\git grrrrr\labs\lab02_nareshk\lab02_nareshk\obj\Debug\lab02_nareshk.csproj.GenerateResource.cache
+C:\Users\nkoirala1\OneDrive - NAIT\term 2\programming\git grrrrr\labs\lab02_nareshk\lab02_nareshk\obj\Debug\lab02_nareshk.csproj.CoreCompileInputs.cache
+C:\Users\nkoirala1\OneDrive - NAIT\term 2\programming\git grrrrr\labs\lab02_nareshk\lab02_nareshk\obj\Debug\lab02_nareshk.exe
+C:\Users\nkoirala1\OneDrive - NAIT\term 2\programming\git grrrrr\labs\lab02_nareshk\lab02_nareshk\obj\Debug\lab02_nareshk.pdb
+C:\Users\nkoirala1\OneDrive - NAIT\term 2\programming\git grrrrr\labs\lab02_nareshk\lab02_nareshk\obj\Debug\lab02_nareshk.csproj.SuggestedBindingRedirects.cache
+C:\Users\chels\OneDrive - NAIT\term 2\programming\git grrrrr\labs\lab02_nareshk\lab02_nareshk\bin\Debug\lab02_nareshk.exe.config
+C:\Users\chels\OneDrive - NAIT\term 2\programming\git grrrrr\labs\lab02_nareshk\lab02_nareshk\bin\Debug\lab02_nareshk.exe
+C:\Users\chels\OneDrive - NAIT\term 2\programming\git grrrrr\labs\lab02_nareshk\lab02_nareshk\bin\Debug\lab02_nareshk.pdb
+C:\Users\chels\OneDrive - NAIT\term 2\programming\git grrrrr\labs\lab02_nareshk\lab02_nareshk\obj\Debug\lab02_nareshk.csproj.AssemblyReference.cache
+C:\Users\chels\OneDrive - NAIT\term 2\programming\git grrrrr\labs\lab02_nareshk\lab02_nareshk\obj\Debug\lab02_nareshk.Form1.resources
+C:\Users\chels\OneDrive - NAIT\term 2\programming\git grrrrr\labs\lab02_nareshk\lab02_nareshk\obj\Debug\lab02_nareshk.Properties.Resources.resources
+C:\Users\chels\OneDrive - NAIT\term 2\programming\git grrrrr\labs\lab02_nareshk\lab02_nareshk\obj\Debug\lab02_nareshk.csproj.GenerateResource.cache
+C:\Users\chels\OneDrive - NAIT\term 2\programming\git grrrrr\labs\lab02_nareshk\lab02_nareshk\obj\Debug\lab02_nareshk.csproj.CoreCompileInputs.cache
+C:\Users\chels\OneDrive - NAIT\term 2\programming\git grrrrr\labs\lab02_nareshk\lab02_nareshk\obj\Debug\lab02_nareshk.exe
+C:\Users\chels\OneDrive - NAIT\term 2\programming\git grrrrr\labs\lab02_nareshk\lab02_nareshk\obj\Debug\lab02_nareshk.pdb
+C:\Users\chels\OneDrive\Documents\NAIT\term 2\programming\git grrrrr\labs\lab02_nareshk\lab02_nareshk\bin\Debug\lab02_nareshk.exe.config
+C:\Users\chels\OneDrive\Documents\NAIT\term 2\programming\git grrrrr\labs\lab02_nareshk\lab02_nareshk\bin\Debug\lab02_nareshk.exe
+C:\Users\chels\OneDrive\Documents\NAIT\term 2\programming\git grrrrr\labs\lab02_nareshk\lab02_nareshk\bin\Debug\lab02_nareshk.pdb
+C:\Users\chels\OneDrive\Documents\NAIT\term 2\programming\git grrrrr\labs\lab02_nareshk\lab02_nareshk\obj\Debug\lab02_nareshk.csproj.AssemblyReference.cache
+C:\Users\chels\OneDrive\Documents\NAIT\term 2\programming\git grrrrr\labs\lab02_nareshk\lab02_nareshk\obj\Debug\lab02_nareshk.Form1.resources
+C:\Users\chels\OneDrive\Documents\NAIT\term 2\programming\git grrrrr\labs\lab02_nareshk\lab02_nareshk\obj\Debug\lab02_nareshk.Properties.Resources.resources
+C:\Users\chels\OneDrive\Documents\NAIT\term 2\programming\git grrrrr\labs\lab02_nareshk\lab02_nareshk\obj\Debug\lab02_nareshk.csproj.GenerateResource.cache
+C:\Users\chels\OneDrive\Documents\NAIT\term 2\programming\git grrrrr\labs\lab02_nareshk\lab02_nareshk\obj\Debug\lab02_nareshk.csproj.CoreCompileInputs.cache
+C:\Users\chels\OneDrive\Documents\NAIT\term 2\programming\git grrrrr\labs\lab02_nareshk\lab02_nareshk\obj\Debug\lab02_nareshk.exe
+C:\Users\chels\OneDrive\Documents\NAIT\term 2\programming\git grrrrr\labs\lab02_nareshk\lab02_nareshk\obj\Debug\lab02_nareshk.pdb

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiDrawer_nkoirala1", "MultiDrawer_nkoirala1\MultiDrawer_nkoirala1.csproj", "{776F02C3-A39A-477B-A86C-0ECDB2E184D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbSoc", "AbSoc\AbSoc.csproj", "{30B3A302-9360-4F59-9DFF-9A1D6CB6085A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{776F02C3-A39A-477B-A86C-0ECDB2E184D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{776F02C3-A39A-477B-A86C-0ECDB2E184D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{776F02C3-A39A-477B-A86C-0ECDB2E184D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{776F02C3-A39A-477B-A86C-0ECDB2E184D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30B3A302-9360-4F59-9DFF-9A1D6CB6085A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30B3A302-9360-4F59-9DFF-9A1D6CB6085A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30B3A302-9360-4F59-9DFF-9A1D6CB6085A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30B3A302-9360-4F59-9DFF-9A1D6CB6085A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

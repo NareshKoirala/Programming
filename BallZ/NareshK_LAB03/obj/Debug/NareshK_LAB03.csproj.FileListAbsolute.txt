@@ -1,0 +1,49 @@
+C:\Users\chels\OneDrive - NAIT\term 2\programming\git grrrrr\labs\NareshK_LAB03\NareshK_LAB03\bin\Debug\NareshK_LAB03.exe.config
+C:\Users\chels\OneDrive - NAIT\term 2\programming\git grrrrr\labs\NareshK_LAB03\NareshK_LAB03\bin\Debug\NareshK_LAB03.exe
+C:\Users\chels\OneDrive - NAIT\term 2\programming\git grrrrr\labs\NareshK_LAB03\NareshK_LAB03\bin\Debug\NareshK_LAB03.pdb
+C:\Users\chels\OneDrive - NAIT\term 2\programming\git grrrrr\labs\NareshK_LAB03\NareshK_LAB03\obj\Debug\NareshK_LAB03.csproj.AssemblyReference.cache
+C:\Users\chels\OneDrive - NAIT\term 2\programming\git grrrrr\labs\NareshK_LAB03\NareshK_LAB03\obj\Debug\NareshK_LAB03.UI_MainForm.resources
+C:\Users\chels\OneDrive - NAIT\term 2\programming\git grrrrr\labs\NareshK_LAB03\NareshK_LAB03\obj\Debug\NareshK_LAB03.Properties.Resources.resources
+C:\Users\chels\OneDrive - NAIT\term 2\programming\git grrrrr\labs\NareshK_LAB03\NareshK_LAB03\obj\Debug\NareshK_LAB03.csproj.GenerateResource.cache
+C:\Users\chels\OneDrive - NAIT\term 2\programming\git grrrrr\labs\NareshK_LAB03\NareshK_LAB03\obj\Debug\NareshK_LAB03.csproj.CoreCompileInputs.cache
+C:\Users\chels\OneDrive - NAIT\term 2\programming\git grrrrr\labs\NareshK_LAB03\NareshK_LAB03\obj\Debug\NareshK_LAB03.exe
+C:\Users\chels\OneDrive - NAIT\term 2\programming\git grrrrr\labs\NareshK_LAB03\NareshK_LAB03\obj\Debug\NareshK_LAB03.pdb
+C:\Users\nkoirala1\OneDrive - NAIT\term 2\programming\git grrrrr\labs\NareshK_LAB03\NareshK_LAB03\bin\Debug\NareshK_LAB03.exe.config
+C:\Users\nkoirala1\OneDrive - NAIT\term 2\programming\git grrrrr\labs\NareshK_LAB03\NareshK_LAB03\bin\Debug\NareshK_LAB03.exe
+C:\Users\nkoirala1\OneDrive - NAIT\term 2\programming\git grrrrr\labs\NareshK_LAB03\NareshK_LAB03\bin\Debug\NareshK_LAB03.pdb
+C:\Users\nkoirala1\OneDrive - NAIT\term 2\programming\git grrrrr\labs\NareshK_LAB03\NareshK_LAB03\obj\Debug\NareshK_LAB03.csproj.AssemblyReference.cache
+C:\Users\nkoirala1\OneDrive - NAIT\term 2\programming\git grrrrr\labs\NareshK_LAB03\NareshK_LAB03\obj\Debug\NareshK_LAB03.UI_MainForm.resources
+C:\Users\nkoirala1\OneDrive - NAIT\term 2\programming\git grrrrr\labs\NareshK_LAB03\NareshK_LAB03\obj\Debug\NareshK_LAB03.Properties.Resources.resources
+C:\Users\nkoirala1\OneDrive - NAIT\term 2\programming\git grrrrr\labs\NareshK_LAB03\NareshK_LAB03\obj\Debug\NareshK_LAB03.csproj.GenerateResource.cache
+C:\Users\nkoirala1\OneDrive - NAIT\term 2\programming\git grrrrr\labs\NareshK_LAB03\NareshK_LAB03\obj\Debug\NareshK_LAB03.csproj.CoreCompileInputs.cache
+C:\Users\nkoirala1\OneDrive - NAIT\term 2\programming\git grrrrr\labs\NareshK_LAB03\NareshK_LAB03\obj\Debug\NareshK_LAB03.exe
+C:\Users\nkoirala1\OneDrive - NAIT\term 2\programming\git grrrrr\labs\NareshK_LAB03\NareshK_LAB03\obj\Debug\NareshK_LAB03.pdb
+C:\Users\nkoirala1\OneDrive - NAIT\term 2\programming\git grrrrr\labs\NareshK_LAB03\NareshK_LAB03\bin\Debug\GDIDrawer.dll
+C:\Users\nkoirala1\OneDrive - NAIT\term 2\programming\git grrrrr\labs\NareshK_LAB03\NareshK_LAB03\obj\Debug\NareshK_LAB03.csproj.CopyComplete
+C:\Users\nkoirala1\OneDrive - NAIT\term 2\programming\git grrrrr\labs\NareshK_LAB03\NareshK_LAB03\obj\Debug\NareshK_LAB03.Form2.resources
+C:\Users\nkoirala1\OneDrive - NAIT\term 2\programming\git grrrrr\labs\NareshK_LAB03\NareshK_LAB03\obj\Debug\NareshK_LAB03.Form3.resources
+C:\Users\nkoirala1\OneDrive - NAIT\term 2\programming\git grrrrr\labs\NareshK_LAB03\NareshK_LAB03\obj\Debug\NareshK_LAB03.Form4.resources
+C:\Users\chels\OneDrive - NAIT\term 2\programming\git grrrrr\labs\NareshK_LAB03\NareshK_LAB03\bin\Debug\GDIDrawer.dll
+C:\Users\chels\OneDrive - NAIT\term 2\programming\git grrrrr\labs\NareshK_LAB03\NareshK_LAB03\obj\Debug\NareshK_LAB03.Form2.resources
+C:\Users\chels\OneDrive - NAIT\term 2\programming\git grrrrr\labs\NareshK_LAB03\NareshK_LAB03\obj\Debug\NareshK_LAB03.Form3.resources
+C:\Users\chels\OneDrive - NAIT\term 2\programming\git grrrrr\labs\NareshK_LAB03\NareshK_LAB03\obj\Debug\NareshK_LAB03.Form4.resources
+C:\Users\chels\OneDrive - NAIT\term 2\programming\git grrrrr\labs\NareshK_LAB03\NareshK_LAB03\obj\Debug\NareshK_LAB03.csproj.CopyComplete
+C:\Users\nkoirala1\OneDrive - NAIT\term 2\programming\git grrrrr\labs\NareshK_LAB03\NareshK_LAB03\obj\Debug\NareshK_LAB03.csproj.SuggestedBindingRedirects.cache
+C:\Users\chels\OneDrive - NAIT\term 2\programming\git grrrrr\labs\NareshK_LAB03\NareshK_LAB03\obj\Debug\NareshK_LAB03.Form5.resources
+C:\Users\nkoirala1\OneDrive - NAIT\term 2\programming\git grrrrr\labs\NareshK_LAB03\NareshK_LAB03\obj\Debug\NareshK_LAB03.Form5.resources
+C:\Users\chels\OneDrive\Documents\NAIT\term 2\programming\git grrrrr\labs\NareshK_LAB03\NareshK_LAB03\bin\Debug\NareshK_LAB03.exe.config
+C:\Users\chels\OneDrive\Documents\NAIT\term 2\programming\git grrrrr\labs\NareshK_LAB03\NareshK_LAB03\bin\Debug\NareshK_LAB03.exe
+C:\Users\chels\OneDrive\Documents\NAIT\term 2\programming\git grrrrr\labs\NareshK_LAB03\NareshK_LAB03\bin\Debug\NareshK_LAB03.pdb
+C:\Users\chels\OneDrive\Documents\NAIT\term 2\programming\git grrrrr\labs\NareshK_LAB03\NareshK_LAB03\bin\Debug\GDIDrawer.dll
+C:\Users\chels\OneDrive\Documents\NAIT\term 2\programming\git grrrrr\labs\NareshK_LAB03\NareshK_LAB03\obj\Debug\NareshK_LAB03.csproj.AssemblyReference.cache
+C:\Users\chels\OneDrive\Documents\NAIT\term 2\programming\git grrrrr\labs\NareshK_LAB03\NareshK_LAB03\obj\Debug\NareshK_LAB03.UI_MainForm.resources
+C:\Users\chels\OneDrive\Documents\NAIT\term 2\programming\git grrrrr\labs\NareshK_LAB03\NareshK_LAB03\obj\Debug\NareshK_LAB03.Form2.resources
+C:\Users\chels\OneDrive\Documents\NAIT\term 2\programming\git grrrrr\labs\NareshK_LAB03\NareshK_LAB03\obj\Debug\NareshK_LAB03.Form3.resources
+C:\Users\chels\OneDrive\Documents\NAIT\term 2\programming\git grrrrr\labs\NareshK_LAB03\NareshK_LAB03\obj\Debug\NareshK_LAB03.Form4.resources
+C:\Users\chels\OneDrive\Documents\NAIT\term 2\programming\git grrrrr\labs\NareshK_LAB03\NareshK_LAB03\obj\Debug\NareshK_LAB03.Form5.resources
+C:\Users\chels\OneDrive\Documents\NAIT\term 2\programming\git grrrrr\labs\NareshK_LAB03\NareshK_LAB03\obj\Debug\NareshK_LAB03.Properties.Resources.resources
+C:\Users\chels\OneDrive\Documents\NAIT\term 2\programming\git grrrrr\labs\NareshK_LAB03\NareshK_LAB03\obj\Debug\NareshK_LAB03.csproj.GenerateResource.cache
+C:\Users\chels\OneDrive\Documents\NAIT\term 2\programming\git grrrrr\labs\NareshK_LAB03\NareshK_LAB03\obj\Debug\NareshK_LAB03.csproj.CoreCompileInputs.cache
+C:\Users\chels\OneDrive\Documents\NAIT\term 2\programming\git grrrrr\labs\NareshK_LAB03\NareshK_LAB03\obj\Debug\NareshK_.75F53D4C.Up2Date
+C:\Users\chels\OneDrive\Documents\NAIT\term 2\programming\git grrrrr\labs\NareshK_LAB03\NareshK_LAB03\obj\Debug\NareshK_LAB03.exe
+C:\Users\chels\OneDrive\Documents\NAIT\term 2\programming\git grrrrr\labs\NareshK_LAB03\NareshK_LAB03\obj\Debug\NareshK_LAB03.pdb

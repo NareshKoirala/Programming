@@ -1,0 +1,9 @@
+C:\Users\chels\OneDrive\Desktop\LAB2\LAB2\bin\Debug\LAB2.exe.config
+C:\Users\chels\OneDrive\Desktop\LAB2\LAB2\bin\Debug\LAB2.exe
+C:\Users\chels\OneDrive\Desktop\LAB2\LAB2\bin\Debug\LAB2.pdb
+C:\Users\chels\OneDrive\Desktop\LAB2\LAB2\bin\Debug\GDIDrawer.dll
+C:\Users\chels\OneDrive\Desktop\LAB2\LAB2\obj\Debug\LAB2.csproj.AssemblyReference.cache
+C:\Users\chels\OneDrive\Desktop\LAB2\LAB2\obj\Debug\LAB2.csproj.CoreCompileInputs.cache
+C:\Users\chels\OneDrive\Desktop\LAB2\LAB2\obj\Debug\LAB2.csproj.Up2Date
+C:\Users\chels\OneDrive\Desktop\LAB2\LAB2\obj\Debug\LAB2.exe
+C:\Users\chels\OneDrive\Desktop\LAB2\LAB2\obj\Debug\LAB2.pdb
